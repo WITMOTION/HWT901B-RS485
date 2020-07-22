@@ -1,4 +1,4 @@
-# HWT905-RS485
+# HWT901B-RS485
 Developed tutorial: providing manual, datasheet, free software for Windows computer
 
 RELEASE NOTES
@@ -14,21 +14,20 @@ This package contains all neccessary file for set-up of the sensor.
 Unzip the .zip file and you will have a directory containing the files.
 
 -----------
-
 Document download link:
 
 Github 
-https://github.com/WITMOTION/HWT905-RS485
+https://github.com/WITMOTION/HWT901B-RS485
 
 Google Drive: 
-https://drive.google.com/open?id=1w-_JR3ePrYNDjyPX2kuOCh0XKBHZI2LR
+https://drive.google.com/open?id=1rkczAFjOFV0LCvQVdx59-eGpYEi3HnsB
 
 -----------
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-HWT905-RS485 Playlist: 
-https://www.youtube.com/watch?v=1Fzp9-R06bo&list=PL43tdDrVL_VA8effnx45yM88R0IUPqCwX
+HWT901B-RS485 Playlist: 
+https://www.youtube.com/watch?v=aRNyL7SLYAk&list=PL43tdDrVL_VB31bJiTg-iKNZB0PF3Q0fR
 
 -----------
 After-sale Service& Technical Support: 
